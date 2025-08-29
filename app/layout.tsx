@@ -28,7 +28,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <h1 style={{ textAlign: "center", fontSize: "50px" }}>
-          화이팅해보자.... 빛나는...
+          화이팅해보자.... 우리들의 아름다운 청춘...
         </h1>
         {children}
       </body>
